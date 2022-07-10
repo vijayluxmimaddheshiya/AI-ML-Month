@@ -50,3 +50,7 @@ For any doubts or queries, put them on our discord server (doubts will be entert
 ALL THE BEST!!
 
 ## SUBMIT BY 10th JULY 11:59PM SHARP
+project : Breast Cancer Predictions 
+link : https://colab.research.google.com/drive/1SvTlnGS6PPen7SuG79L0rod-0XBAFKZj
+f1 : 94% 
+The best model for predictionss : KNN(Highest precision and least error relative to other models )
